@@ -36,7 +36,7 @@ export default function ListingDetails() {
     const getImageUrl = (imagePath) => {
         if (!imagePath) return null;
         // Adjust this if your backend serves static files differently
-        return `http://localhost:5000/${imagePath}`;
+        return `http://51.20.185.216:3000/${imagePath}`;
     };
 
     if (loading) {

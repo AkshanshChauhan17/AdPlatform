@@ -27,7 +27,7 @@ export default function Marketplace() {
     // Helper to format the image URL or use a fallback
     const getImageUrl = (imagePath) => {
         if (!imagePath) return null;
-        return `http://localhost:5000/${imagePath}`;
+        return `http://51.20.185.216:3000/${imagePath}`;
     };
 
     if (loading) {

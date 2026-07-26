@@ -7,7 +7,7 @@ export default function PricingSection() {
         {
             name: "Golden Package",
             price: "150",
-            image: "https://images.unsplash.com/photo-1542744095-291d1f67b221?q=80&w=800&auto=format&fit=crop",
+            image: "/price1.png",
             features: [
                 "Mistakes To Avoid",
                 "Your Startup",
@@ -19,7 +19,7 @@ export default function PricingSection() {
         {
             name: "Normal Package",
             price: "170",
-            image: "https://images.unsplash.com/photo-1555598687-3914a4fc937f?q=80&w=800&auto=format&fit=crop",
+            image: "/price2.png",
             features: [
                 "Mistakes To Avoid",
                 "Your Startup",
@@ -31,7 +31,7 @@ export default function PricingSection() {
         {
             name: "Platinum Package",
             price: "110",
-            image: "https://images.unsplash.com/photo-1559253664-ca2cfb9c2b41?q=80&w=800&auto=format&fit=crop",
+            image: "/price3.png",
             features: [
                 "Mistakes To Avoid",
                 "Your Startup",
