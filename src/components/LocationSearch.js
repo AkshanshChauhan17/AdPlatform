@@ -13,7 +13,7 @@ export default function LocationSearch() {
                     <div className="flex justify-center lg:justify-end pr-0 lg:pr-16 order-2 lg:order-1">
                         {/* Using a placeholder SVG outline map of India */}
                         <img 
-                            src="/Map Of India.png" 
+                            src="/map_india.png" 
                             alt="India Map Outline" 
                             className="w-full max-w-[350px] md:max-w-[450px] object-contain opacity-80 mix-blend-multiply hover:scale-105 transition-transform duration-700"
                         />
